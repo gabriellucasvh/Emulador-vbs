@@ -1,6 +1,8 @@
 # Iniciando o Emulador do Android Studio Sem Janela de Terminal
 ## Objetivo
 Este documento orienta o usuário sobre como iniciar o emulador do Android Studio sem abrir uma janela de terminal, utilizando um script em VBS (Visual Basic Script).
+>[!NOTE]
+> O método é para sistemas `windows`, mas você pode adaptar para o seu sistema seguindo a mesma lógica.
 
 ## Pré-requisitos
 - Android Studio instalado com o SDK do Android.
