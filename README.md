@@ -4,7 +4,7 @@ Este documento orienta o usuário sobre como iniciar o emulador do Android Studi
 
 ## Pré-requisitos
 - Android Studio instalado com o SDK do Android.
-- Um emulador configurado (neste exemplo, o emulador é chamado Pixel_8_API_35).
+- Um emulador configurado (neste exemplo, o emulador é chamado `Pixel_8_API_35`).
 ### Passos para Criar um Script VBS
 1. **Abrir um Editor de Texto:**
 
